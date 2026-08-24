@@ -237,7 +237,6 @@ ckd-prediction-system-nhanes/
 ├── scaler.pkl
 ├── selected_features.pkl
 │
-├── assets/
-│   └── kidney.png
+├── kidney.png
 │
 └── README.md
